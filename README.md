@@ -1,31 +1,7 @@
 # dict_complete
 
-国家.txt 
-数理化.txt 
-职位.txt
-专业.txt
-停用词_中文.txt
-停用词哈工大.txt 
-停用词_四川大学.txt
-停用词_百度.txt
-地名.txt 
-植物.txt 
-自然天文.txt
-中草药.txt
-姓氏.txt 
-民间偏方.txt
-词语.txt
-中药名方.txt
-学校.txt 
-民间验方.txt
-酒方.txt
-交通.txt 
-健康.txt 
-微生物.txt 
-电脑网络.txt  
-金融.txt
-体育.txt
-动物.txt
-成语.txt
-粥谱.txt
-饮食.txt
+### 记录生活中的点点滴滴
+
+| **Number**|  **Title** | **Description** |
+| --- | --- | --- |
+| 001 | [001-专业.txt](https://github.com/hee0624/dict_complete/blob/master/%E4%B8%93%E4%B8%9A.txt) | 专业|

@@ -24,3 +24,12 @@
 | 018 | [018-植物.txt](https://github.com/hee0624/dict_complete/blob/master/dict/018-%E6%A4%8D%E7%89%A9.txt) | 植物|
 | 019 | [019-民间偏方.txt](https://github.com/hee0624/dict_complete/blob/master/dict/019-%E6%B0%91%E9%97%B4%E5%81%8F%E6%96%B9.txt) | 民间偏方|
 | 020 | [020-民间验方.txt](https://github.com/hee0624/dict_complete/blob/master/dict/020-%E6%B0%91%E9%97%B4%E9%AA%8C%E6%96%B9.txt) | 民间验方|
+| 021| [021-电脑网络.txt](https://github.com/hee0624/dict_complete/blob/master/dict/021-%E7%94%B5%E8%84%91%E7%BD%91%E7%BB%9C.txt) | 电脑网络|
+| 022 | [022-周谱.txt](https://github.com/hee0624/dict_complete/blob/master/dict/022-%E7%B2%A5%E8%B0%B1.txt) | 周谱|
+| 023 | [023-职位.txt](https://github.com/hee0624/dict_complete/blob/master/dict/023-%E8%81%8C%E4%BD%8D.txt) | 职位|
+| 024 | [024-自然天文.txt](https://github.com/hee0624/dict_complete/blob/master/dict/024-%E8%87%AA%E7%84%B6%E5%A4%A9%E6%96%87.txt) | 自然天文|
+| 025 | [025-词语.txt](https://github.com/hee0624/dict_complete/blob/master/dict/025-%E8%AF%8D%E8%AF%AD.txt) | 词语|
+| 026 | [026-酒方.txt](https://github.com/hee0624/dict_complete/blob/master/dict/026-%E9%85%92%E6%96%B9.txt) | 酒方|
+| 027 | [027-金融.txt](https://github.com/hee0624/dict_complete/blob/master/dict/027-%E9%87%91%E8%9E%8D.txt) | 金融|
+| 028 | [028-饮食.txt](https://github.com/hee0624/dict_complete/blob/master/dict/028-%E9%A5%AE%E9%A3%9F.txt) | 饮食|
+

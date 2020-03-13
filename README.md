@@ -1,4 +1,4 @@
-# dict_complete
+# mydict
 
 ### 记录生活中的点点滴滴
 

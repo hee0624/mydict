@@ -18,7 +18,7 @@
 | 023 | [023-职位.txt](https://github.com/hee0624/dict_complete/blob/master/dict/023-%E8%81%8C%E4%BD%8D.txt) | 职位|| 024 | [024-自然天文.txt](https://github.com/hee0624/dict_complete/blob/master/dict/024-%E8%87%AA%E7%84%B6%E5%A4%A9%E6%96%87.txt) | 自然天文|
 | 025 | [025-词语.txt](https://github.com/hee0624/dict_complete/blob/master/dict/025-%E8%AF%8D%E8%AF%AD.txt) | 词语|| 026 | [026-酒方.txt](https://github.com/hee0624/dict_complete/blob/master/dict/026-%E9%85%92%E6%96%B9.txt) | 酒方|
 | 027 | [027-金融.txt](https://github.com/hee0624/dict_complete/blob/master/dict/027-%E9%87%91%E8%9E%8D.txt) | 金融|| 028 | [028-饮食.txt](https://github.com/hee0624/dict_complete/blob/master/dict/028-%E9%A5%AE%E9%A3%9F.txt) | 饮食|
-|029|[029-中国银行名称.txt](https://github.com/hee0624/mydict/blob/master/dict/029-%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%90%8D%E7%A7%B0.txt)|中国银行名称||030|[030-汽车品牌.txt]()|汽车品牌|
+|029|[029-中国银行名称.txt](https://github.com/hee0624/mydict/blob/master/dict/029-%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%90%8D%E7%A7%B0.txt)|中国银行名称||030|[030-汽车品牌.txt](https://github.com/hee0624/mydict/blob/master/dict/030-%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C.txt)|汽车品牌|
 ||||||||
 
 
